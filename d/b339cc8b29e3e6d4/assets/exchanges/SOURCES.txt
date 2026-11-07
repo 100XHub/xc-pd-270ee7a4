@@ -1,0 +1,14 @@
+toobit.png
+  source: https://www.toobit.com/favicon.ico (official Toobit site favicon; PNG payload)
+  also considered: https://www.toobit.com/_nuxt/microFooter/new-foot-logo.webp
+
+blofin.png
+  source: https://s2.blofin.com/icons/blofin/favicon-v2.ico (official Blofin CDN favicon referenced from blofin.com; PNG payload)
+
+vix.png
+  source: https://vixx.vn/favicon.ico?favicon.0b3bf435.ico (official Vixex / VIX exchange site favicon)
+  brand SVG also at: https://vixx.vn/logos/vivi-logo.svg
+
+weex.png
+  source: https://www.weex.com/baseasset/favicon.ico (official WEEX site favicon; resized PNG)
+  also considered: https://www.weex.com/trade_static/_next/static/media/logoweex_black.2l70g8adovcuy.svg
